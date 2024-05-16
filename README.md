@@ -4,3 +4,4 @@ NOTE: this is JUST the code for the chat bot, again -> this is not hosted(only r
 
 About the project: 
   I felt like i wanted to learn how to use API's more effectively. Im trynna knock some more stuff out using this API, maybe a chrome extension that summarizes articles at the click of a button 
+ 
